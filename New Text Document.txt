@@ -1,0 +1,10 @@
+Airline FeedBack
+
+check box,
+
+Star rating
+
+button
+
+
+Once the button clicked then send by mail
